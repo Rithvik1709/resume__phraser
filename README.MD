@@ -15,11 +15,6 @@ This Jupyter Notebook project provides a basic yet functional tool to parse info
 ## Installation
 
 1.  **Clone the Repository (Optional - if this were a Git repo):**
-    ```bash
-    # If you have a Git repository for this project
-    # git clone <your-repo-url>
-    # cd <your-repo-directory>
-    ```
 
 2.  **Install Required Python Libraries:**
     Open your terminal or command prompt and run the following pip command:
@@ -33,13 +28,7 @@ This Jupyter Notebook project provides a basic yet functional tool to parse info
 ## Usage
 
 1.  **Launch Jupyter Notebook/Lab:**
-    Navigate to the directory where you saved your `.ipynb` file (or start Jupyter and navigate to it from the browser interface). Then run:
-    ```bash
-    jupyter notebook
-    # or
-    # jupyter lab
-    ```
-    This will open Jupyter in your web browser.
+    Navigate to the directory where you saved your `.ipynb` file
 
 2.  **Open the Notebook:**
     Locate and click on the `resume_parser.ipynb`
